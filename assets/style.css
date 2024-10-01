@@ -699,7 +699,7 @@ a.ui-button:active,
 .theme-btn-s4:hover,
 .theme-btn-s4:focus,
 .theme-btn-s4:active {
-  background: #c79889;
+  background: #767856;
   color: #fff;
 }
 
@@ -11799,7 +11799,7 @@ wpo-hero-slider-s4
   .wpo-contact-form-area
   .submit-area
   .view-cart-btn {
-  background: #f6efde;
+  background: #a7b087;
 }
 
 @media (max-width: 1399px) {
